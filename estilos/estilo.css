@@ -1,0 +1,26 @@
+
+div.principal{
+
+
+}
+body.index{
+    background-color: #d4d4d4;
+    padding: 20px;
+    font-family: Arial;
+    font-size: 18px;
+}
+label{
+    display: block;
+    font-weight: bold;
+}
+.espaco{
+    height: 15px;
+    display: block;
+}
+input{
+    font-size: 16px;
+    padding: 5px;
+}
+.titulo{
+    font-weight: bold;
+}
